@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this homework, you will implement a translator that converts a Bril program in SSA form into LLVM IR. The goal is to produce a valid LLVM IR program that can be executed using lli, and whose output matches that of the original Bril program when executed with brili. You will build upon your SSA construction from Homework 2 and focus on the translation process to LLVM IR.
+In this homework, you will implement a translator that converts a Bril program in SSA form into LLVM IR. The goal is to produce a valid LLVM IR program that can be executed using lli, and whose output matches that of the original Bril program when executed with brili. You will build upon your SSA construction from Homework 4 and focus on the translation process to LLVM IR.
 
 ## Prerequisites
 
